@@ -1,0 +1,18 @@
+Data Structures:
+    Te ayudan a almacenar, administrar y organizar los datos.
+
+Types of Data Structures
+
+    Built-in:
+        List
+        Dictonary
+        Tuple
+        Set
+    UDF:
+        Stack
+        Queue
+        Tree
+        Linked List
+        Graph
+        HashMap
+        
